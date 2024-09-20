@@ -1,4 +1,4 @@
-# PDF-Based Exam Question Generator with ChatGroq
+# Automated-Text-Generation-from-PDF-Queries-Exam-Quiz
 
 This Streamlit application allows users to upload a PDF, ask questions about the content, and generate exam questions (Multiple Choice Questions and Fill-in-the-Blanks) based on the uploaded PDF. It uses LangChain and Hugging Face embeddings to handle text queries and document splitting. The application also integrates ChatGroq for advanced language model processing.
 
